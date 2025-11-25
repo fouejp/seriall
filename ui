@@ -1,6 +1,6 @@
 local Settings = {
-    Accent = Color3.fromHex("#1D2951"),
-    Font = Enum.Font.Arcade,
+    Accent = Color3.fromHex("#FF073A"),
+    Font = Enum.Font.GothamBold,
     IsBackgroundTransparent = true,
     Rounded = false,
     Dim = false,
